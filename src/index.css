@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html {
+    scroll-behavior: smooth;
+  }
+  
+  /* Navbar ke neeche chipakne se bachata hai */
+  section {
+    scroll-margin-top: 80px;
+  }
